@@ -32,11 +32,11 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/Publication/DRE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Are Data-driven Explanations Robust against Out-of-distribution Data?
+**Are Data-driven Explanations Robust against Out-of-distribution Data?**
 
 **Tang Li**, Fengchun Qiao, Mengmeng Ma, Xi Peng
 
-[**Code**](https://github.com/tangli-udel/DRE) 
+[**Paper**](https://arxiv.org/pdf/2303.16390.pdf) \| [**Code**](https://github.com/tangli-udel/DRE) 
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (acceptance rate 25.8%)
 </div>
@@ -46,12 +46,13 @@ Are Data-driven Explanations Robust against Out-of-distribution Data?
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/Publication/NeurIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Learning for Spatiotemporal Modeling of Urbanization](https://arxiv.org/pdf/2112.09668.pdf)
+**Deep Learning for Spatiotemporal Modeling of Urbanization**
 
 **Tang Li**, Jing Gao, Xi Peng
 
-[**Video**](https://www.youtube.com/watch?v=3VyVck_gv4g) <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:u5HHmVD_uO8C'></span></strong>
-- [**Best Paper Award**](https://sites.google.com/nyu.edu/mlph2021/accepted-papers?authuser=0) by NeurIPS 2021 MLPH (Machine Learning in Public Health) Workshop.
+[**Paper**](https://arxiv.org/pdf/2112.09668.pdf) \| [**Video**](https://www.youtube.com/watch?v=3VyVck_gv4g) \| [**Award**](https://sites.google.com/nyu.edu/mlph2021/accepted-papers?authuser=0)
+<!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:u5HHmVD_uO8C'></span></strong> -->
+- **Best Paper Award** by NeurIPS 2021 MLPH (Machine Learning in Public Health) Workshop.
 </div>
 </div>
 
