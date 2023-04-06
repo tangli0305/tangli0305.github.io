@@ -36,7 +36,8 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 
 **Tang Li**, Fengchun Qiao, Mengmeng Ma, Xi Peng
 
-[**Code & Pretrained Model**](https://github.com/tangli-udel/DRE) <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong>
+[**Code & Pretrained Models**](https://github.com/tangli-udel/DRE) \| <a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mQFL3DYAAAAJ&citation_for_view=mQFL3DYAAAAJ:2osOgNQ5qMEC'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (acceptance rate 25.8%)
 </div>
 </div>
