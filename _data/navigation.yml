@@ -19,7 +19,11 @@ main:
     url: "/#-invited-talks"
   
   - title: "Professional Services"
-    url: "/#-invited-talks"
+    url: "/#-professional-services"
+  
+  - title: "Teaching"
+    url: "/#-teaching"
+
 
   # - title: "Internships"
   #   url: "/#-internships"

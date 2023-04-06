@@ -29,21 +29,20 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR'23</div><img src='images/Publication/DRE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/Publication/DRE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Are Data-driven Explanations Robust against Out-of-distribution Data?](https://arxiv.org/pdf/2303.16390.pdf)
 
 **Tang Li**, Fengchun Qiao, Mengmeng Ma, Xi Peng
 
-[**Code & Pretrained Models**](https://github.com/tangli-udel/DRE) \| <a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mQFL3DYAAAAJ&citation_for_view=mQFL3DYAAAAJ:2osOgNQ5qMEC'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-<!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
+[**Code & Pretrained Models**](https://github.com/tangli-udel/DRE) <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong>
 - In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (acceptance rate 25.8%)
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'21W</div><img src='images/Publication/NeurIPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/Publication/NeurIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Learning for Spatiotemporal Modeling of Urbanization](https://arxiv.org/pdf/2112.09668.pdf)
@@ -71,5 +70,12 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 # 💬 Invited Talks
 - *2021.12*, MLPH Workshop, Conference on Neural Information Processing Systems (NeurIPS).  \| [\[video\]](https://www.youtube.com/watch?v=3VyVck_gv4g)
 
+<span class='anchor' id='-professional-services'></span>
 # 💻 Professional Services
 - *2022.03 - present*, DSI Fellow, University of Delaware Data Science Institute (DSI), USA.
+
+<span class='anchor' id='-teaching'></span>
+# 👨‍🏫 Teaching
+- CISC 108 (Introduction to Computer Science), Teaching Assistant, Fall2020, Spring2021, Fall2021.
+- CISC 181 (Introduction to Computer Science II), Teaching Assistant, Spring2022, Spring2023.
+- CISC 484 (Introduction to Machine Learning), Teaching Assistant, Fall2022.
