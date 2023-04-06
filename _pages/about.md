@@ -29,7 +29,7 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR'23</div><img src='images/DRE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR'23</div><img src='images/Publication/DRE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Are Data-driven Explanations Robust against Out-of-distribution Data?](https://arxiv.org/pdf/2303.16390.pdf)
@@ -38,12 +38,11 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 
 [**Code & Pretrained Model**](https://github.com/tangli-udel/DRE) <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong>
 - We comprehensively study the robustness of datadriven explanations against naturally-occurring distributional shifts.
-- We propose an end-to-end model-agnostic learning framework Distributionally Robust Explanations (DRE). It fully utilizes inter-distribution information to provide supervisory signals for explanation learning without human annotations.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'21W</div><img src='images/NeurIPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'21W</div><img src='images/Publication/NeurIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Learning for Spatiotemporal Modeling of Urbanization](https://arxiv.org/pdf/2112.09668.pdf)
@@ -65,7 +64,7 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 
 # 📖 Educations
 - *2020.08 - present*, Ph.D. in Computer Science, University of Delaware, Newark, DE, USA. 
-- *2018.08 - 2020.05*, Master in Computer Science, George Washington University, Washingtong D.C., USA.
+- *2018.08 - 2020.05*, Master in Computer Science, George Washington University, Washington D.C., USA.
 - *2013.09 - 2017.06*, B.Eng. in Software Engineering, East China Normal University, Shanghai, China. 
 
 # 💬 Invited Talks
