@@ -32,11 +32,12 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/Publication/DRE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Are Data-driven Explanations Robust against Out-of-distribution Data?](https://arxiv.org/pdf/2303.16390.pdf)
+Are Data-driven Explanations Robust against Out-of-distribution Data?
 
 **Tang Li**, Fengchun Qiao, Mengmeng Ma, Xi Peng
 
-[**Code & Pretrained Models**](https://github.com/tangli-udel/DRE) <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong>
+[**Code**](https://github.com/tangli-udel/DRE) 
+<!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (acceptance rate 25.8%)
 </div>
 </div>
