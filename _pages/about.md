@@ -37,7 +37,7 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 **Tang Li**, Fengchun Qiao, Mengmeng Ma, Xi Peng
 
 [**Code & Pretrained Model**](https://github.com/tangli-udel/DRE) <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong>
-- We comprehensively study the robustness of datadriven explanations against naturally-occurring distributional shifts.
+- In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (acceptance rate 25.8%)
 </div>
 </div>
 
