@@ -36,7 +36,7 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 
 **Tang Li**, Fengchun Qiao, Mengmeng Ma, Xi Peng
 
-[**Paper**](https://arxiv.org/pdf/2303.16390.pdf) \| [**Code**](https://github.com/tangli-udel/DRE) 
+[**Paper**](https://arxiv.org/pdf/2303.16390.pdf) \| [**Code**](https://github.com/tangli-udel/DRE) \| [**Video**](https://www.youtube.com/watch?v=4-8zMdB83x8) 
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (acceptance rate 25.8%)
 </div>
@@ -70,6 +70,7 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 - *2013.09 - 2017.06*, B.Eng. in Software Engineering, East China Normal University, Shanghai, China. 
 
 # 💬 Invited Talks
+- *2023.05*, the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.  \| [\[video\]](https://www.youtube.com/watch?v=4-8zMdB83x8)
 - *2021.12*, MLPH Workshop, Conference on Neural Information Processing Systems (NeurIPS).  \| [\[video\]](https://www.youtube.com/watch?v=3VyVck_gv4g)
 
 <span class='anchor' id='-professional-services'></span>
