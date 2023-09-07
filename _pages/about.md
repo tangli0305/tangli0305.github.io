@@ -52,7 +52,7 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 
 [**Paper**](https://arxiv.org/pdf/2112.09668.pdf) \| [**Video**](https://www.youtube.com/watch?v=3VyVck_gv4g) \| [**Award**](https://sites.google.com/nyu.edu/mlph2021/accepted-papers?authuser=0)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:u5HHmVD_uO8C'></span></strong> -->
-- **Best Paper Award** by NeurIPS 2021 MLPH (Machine Learning in Public Health) Workshop.
+- In Proceedings of the Conference on Neural Information Processing Systems (NeurIPS) Workshops on Machine Learning in Public Health (MLPH), 2021. (**Best Paper Award**)
 </div>
 </div>
 
