@@ -79,6 +79,7 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 
 <span class='anchor' id='-teaching'></span>
 # 👨‍🏫 Teaching
+- CISC 484 (Introduction to Machine Learning), Teaching Assistant, Fall2022.
+- CISC 220 (Data Structure), Teaching Assistant, Fall2023.
 - CISC 108 (Introduction to Computer Science), Teaching Assistant, Fall2020, Spring2021, Fall2021.
 - CISC 181 (Introduction to Computer Science II), Teaching Assistant, Spring2022, Spring2023.
-- CISC 484 (Introduction to Machine Learning), Teaching Assistant, Fall2022.
