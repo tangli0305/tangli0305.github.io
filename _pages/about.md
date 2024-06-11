@@ -28,7 +28,7 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/Publication/TFL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/Publication/TFL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Beyond the Federation: Topology-aware Federated Learning for Generalization to Unseen Clients**
