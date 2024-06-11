@@ -28,13 +28,26 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/Publication/TFL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Beyond the Federation: Topology-aware Federated Learning for Generalization to Unseen Clients**
+
+Mengmeng Ma, **Tang Li**, and Xi Peng
+
+[**Paper**] \| [**Code**]
+<!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
+- In Proceedings of the International Conference on Machine Learning, 2024. (acceptance rate 27.5%)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/Publication/DRE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Are Data-driven Explanations Robust against Out-of-distribution Data?**
 
-**Tang Li**, Fengchun Qiao, Mengmeng Ma, Xi Peng
+**Tang Li**, Fengchun Qiao, Mengmeng Ma, and Xi Peng
 
 [**Paper**](https://arxiv.org/pdf/2303.16390.pdf) \| [**Code**](https://github.com/tangli-udel/DRE) \| [**Video**](https://www.youtube.com/watch?v=4-8zMdB83x8) 
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
@@ -48,7 +61,7 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 
 **Deep Learning for Spatiotemporal Modeling of Urbanization**
 
-**Tang Li**, Jing Gao, Xi Peng
+**Tang Li**, Jing Gao, and Xi Peng
 
 [**Paper**](https://arxiv.org/pdf/2112.09668.pdf) \| [**Video**](https://www.youtube.com/watch?v=3VyVck_gv4g) \| [**Award**](https://sites.google.com/nyu.edu/mlph2021/accepted-papers?authuser=0)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:u5HHmVD_uO8C'></span></strong> -->
@@ -60,8 +73,9 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2024.05* Distinguished Graduate Student Award 2024, Computer & Information Sciences, University of Delaware. 
 - *2023.03* Department Travel Award for Outstanding Conference Publications, University of Delaware. 
-- *2022.05* Distinguished Graduate Student Award, Computer & Information Sciences, University of Delaware. 
+- *2022.05* Distinguished Graduate Student Award 2022, Computer & Information Sciences, University of Delaware. 
 - *2021.12* Best Paper Award, MLPH Workshop, Conference on Neural Information Processing Systems (NeurIPS) 
 
 # 📖 Educations
@@ -80,6 +94,6 @@ My research interest includes Explainable Machine Learning , Scientific Machine 
 <span class='anchor' id='-teaching'></span>
 # 👨‍🏫 Teaching
 - CISC 484 (Introduction to Machine Learning), Teaching Assistant, Fall2022.
-- CISC 220 (Data Structure), Teaching Assistant, Fall2023.
+- CISC 220 (Data Structure), Teaching Assistant, Fall2023, Spring2024.
 - CISC 108 (Introduction to Computer Science), Teaching Assistant, Fall2020, Spring2021, Fall2021.
 - CISC 181 (Introduction to Computer Science II), Teaching Assistant, Spring2022, Spring2023.
