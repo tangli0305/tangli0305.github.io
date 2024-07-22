@@ -36,7 +36,7 @@ My research interest includes Explainable Machine Learning , Vision-Language Mod
 
 **Tang Li**, Mengmeng Ma, and Xi Peng
 
-[**Paper**](https://tangli0305.github.io/) \| [**Code**](https://github.com/tangli-udel/DEAL)
+[**Paper**](https://arxiv.org/pdf/2407.14412) \| [**Code**](https://github.com/tangli-udel/DEAL)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the European Conference on Computer Vision (ECCV), 2024. (acceptance rate 27.9%)
 </div>
@@ -50,7 +50,7 @@ My research interest includes Explainable Machine Learning , Vision-Language Mod
 
 Mengmeng Ma, **Tang Li**, and Xi Peng
 
-[**Paper**] \| [**Code**]
+[**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the International Conference on Machine Learning, 2024. (acceptance rate 27.5%)
 </div>
