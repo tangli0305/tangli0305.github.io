@@ -88,10 +88,12 @@ Mengmeng Ma, **Tang Li**, and Xi Peng
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2024.08* Department Travel Award for Outstanding Conference Publications, University of Delaware. 
+- *2024.07* $5,000 API credit from the OpenAI Researcher Access Program.
 - *2024.05* Distinguished Graduate Student Award 2024, Computer & Information Sciences, University of Delaware. 
 - *2023.03* Department Travel Award for Outstanding Conference Publications, University of Delaware. 
 - *2022.05* Distinguished Graduate Student Award 2022, Computer & Information Sciences, University of Delaware. 
-- *2021.12* Best Paper Award, MLPH Workshop, Conference on Neural Information Processing Systems (NeurIPS) 
+- *2021.12* **Best Paper Award**, MLPH Workshop, Conference on Neural Information Processing Systems (NeurIPS).
 
 # 📖 Educations
 - *2020.08 - present*, Ph.D. in Computer Science, University of Delaware, Newark, DE, USA. 
@@ -104,7 +106,16 @@ Mengmeng Ma, **Tang Li**, and Xi Peng
 
 <span class='anchor' id='-professional-services'></span>
 # 💻 Professional Services
-- *2022.03 - present*, DSI Fellow, University of Delaware Data Science Institute (DSI), USA.
+Conference and Journal Reviewer
+- Annual Conference on Neural Information Processing Systems (NeurIPS), 2023-2024.
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023-2024.
+- AAAI Conference on Artificial Intelligence (AAAI), 2024.
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.
+- British Machine Vision Conference (BMVC), 2024.
+- Remote Sensing (RS), 2022.
+
+DSI Fellow
+- *2022.03 - present*, University of Delaware Data Science Institute (DSI), USA.
 
 <span class='anchor' id='-teaching'></span>
 # 👨‍🏫 Teaching
