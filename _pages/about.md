@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. student in the <a href='https://www.cis.udel.edu/'>Computer & Information Science Department</a> at the <a href='https://www.udel.edu/'>University of Delaware</a>. I work under the advice of <a href='https://deep-real.github.io/dr_xipeng.html'>Prof. Xi Peng</a> in the <a href='https://deep-real.github.io/'>DeepREAL Lab</a>.
 
-My research interest includes Explainable Machine Learning, Vision-Language Models, Scientific Machine Learning, and Out-of-distribution Generalization. I have published papers <a href='https://scholar.google.com/citations?user=mQFL3DYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top-tier AI/ML conferences, such as NeurIPS, CVPR, and ECCV.
+My research interest includes Explainable Machine Learning, Vision-Language Models, Scientific Machine Learning, and Out-of-distribution Generalization. I have published papers <a href='https://scholar.google.com/citations?user=mQFL3DYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top-tier AI/ML conferences, such as NeurIPS, CVPR, ECCV, etc.
 
 
 
@@ -28,17 +28,30 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/Publication/Double_correct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Publication/DEAL.png' alt="sym" width="100%"></div></div>
+**Double-correct Prediction: Ensuring Correct Prediction with Correct Rationale**
+
+**Tang Li**, Mengmeng Ma, and Xi Peng
+
+[**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/) \| [**Video**](https://tangli0305.github.io/)
+<!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
+- In Proceedings of the  Annual Conference on Neural Information Processing Systems (NeurIPS), 2024. (acceptance rate 25.8%)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 Strong Double Blind</div><img src='images/Publication/DEAL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DEAL: Disentangle and Localize Concept-level Explanations for VLMs**
 
 **Tang Li**, Mengmeng Ma, and Xi Peng
 
-[**Paper**](https://arxiv.org/pdf/2407.14412) \| [**Code**](https://github.com/tangli-udel/DEAL)
+[**Paper**](https://arxiv.org/pdf/2407.14412) \| [**Code**](https://github.com/tangli-udel/DEAL) \| [**Video**](https://www.youtube.com/watch?v=Rd4vFWI2fKw)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
-- In Proceedings of the European Conference on Computer Vision (ECCV), 2024. (acceptance rate 27.9%)
+- In Proceedings of the European Conference on Computer Vision (ECCV), 2024. (acceptance rate 4.5%)
 </div>
 </div>
 
@@ -50,7 +63,7 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 
 Mengmeng Ma, **Tang Li**, and Xi Peng
 
-[**Paper**](https://arxiv.org/pdf/2407.04949v1) \| [**Code**](https://tangli0305.github.io/)
+[**Paper**](https://arxiv.org/pdf/2407.04949v1) \| [**Code**](https://tangli0305.github.io/) \| [**Video**](https://drive.google.com/file/d/1uPGpFzsk_SgV_MA-qnY9k6QlMoyaTqrD/view)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the International Conference on Machine Learning, 2024. (acceptance rate 27.5%)
 </div>
@@ -71,14 +84,14 @@ Mengmeng Ma, **Tang Li**, and Xi Peng
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/Publication/NeurIPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPSW 2021 Best Paper Award</div><img src='images/Publication/NeurIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Deep Learning for Spatiotemporal Modeling of Urbanization**
 
 **Tang Li**, Jing Gao, and Xi Peng
 
-[**Paper**](https://arxiv.org/pdf/2112.09668.pdf) \| [**Video**](https://www.youtube.com/watch?v=3VyVck_gv4g) \| [**Award**](https://sites.google.com/nyu.edu/mlph2021/accepted-papers?authuser=0)
+[**Paper**](https://arxiv.org/pdf/2112.09668.pdf) \| [**Video**](https://www.youtube.com/watch?v=3VyVck_gv4g) \| [**Award**](https://sites.google.com/nyu.edu/mlph2021/accepted-papers?authuser=0#:~:text=Deep%20Learning%20for%20Spatiotemporal,Peng%20(University%20of%20Delaware))
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:u5HHmVD_uO8C'></span></strong> -->
 - In Proceedings of the Conference on Neural Information Processing Systems (NeurIPS) Workshops on Machine Learning in Public Health (MLPH), 2021. (**Best Paper Award**)
 </div>
@@ -88,8 +101,9 @@ Mengmeng Ma, **Tang Li**, and Xi Peng
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2024.09* **Strong Double Blind**, European Conference on Computer Vision (ECCV).
 - *2024.08* Department Travel Award for Outstanding Conference Publications, University of Delaware. 
-- *2024.07* $5,000 API credit from the OpenAI Researcher Access Program.
+- *2024.07* **$5,000** API credit from the OpenAI Researcher Access Program.
 - *2024.05* Distinguished Graduate Student Award 2024, Computer & Information Sciences, University of Delaware. 
 - *2023.03* Department Travel Award for Outstanding Conference Publications, University of Delaware. 
 - *2022.05* Distinguished Graduate Student Award 2022, Computer & Information Sciences, University of Delaware. 
@@ -101,13 +115,15 @@ Mengmeng Ma, **Tang Li**, and Xi Peng
 - *2013.09 - 2017.06*, B.Eng. in Software Engineering, East China Normal University, Shanghai, China. 
 
 # 💬 Invited Talks
+- *2024.09*, the European Conference on Computer Vision (ECCV), 2024.  \| [\[video\]](https://www.youtube.com/watch?v=Rd4vFWI2fKw)
 - *2023.05*, the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.  \| [\[video\]](https://www.youtube.com/watch?v=4-8zMdB83x8)
-- *2021.12*, MLPH Workshop, Conference on Neural Information Processing Systems (NeurIPS).  \| [\[video\]](https://www.youtube.com/watch?v=3VyVck_gv4g)
+- *2021.12*, MLPH Workshop, Conference on Neural Information Processing Systems (NeurIPS), 2021.  \| [\[video\]](https://www.youtube.com/watch?v=3VyVck_gv4g)
 
 <span class='anchor' id='-professional-services'></span>
 # 💻 Professional Services
 Conference and Journal Reviewer
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2023-2024.
+- International Conference on Learning Representations (ICLR), 2025.
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023-2024.
 - AAAI Conference on Artificial Intelligence (AAAI), 2024.
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.
