@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the <a href='https://www.cis.udel.edu/'>Computer & Information Science Department</a> at the <a href='https://www.udel.edu/'>University of Delaware</a>. I work under the advice of <a href='https://sites.google.com/site/xipengcshomepage/home?authuser=0%22%3E%3Cimg%20class=%22card-img-top%20w-100%20d-block'>Prof. Xi Peng</a> in the <a href='https://deep-real.github.io/'>Deep-REAL Lab</a>. You may find my <a href='Tang_CV.pdf'>Curriculum Vitae</a> here.
+I am a Ph.D. student in the <a href='https://www.cis.udel.edu/'>Computer & Information Science Department</a> at the <a href='https://www.udel.edu/'>University of Delaware</a>. I work under the advice of <a href='https://deep-real.github.io/dr_xipeng.html'>Prof. Xi Peng</a> in the <a href='https://deep-real.github.io/'>DeepREAL Lab</a>.
 
-My research interest includes Explainable Machine Learning , Vision-Language Models, Scientific Machine Learning, and Out-of-distribution Generalization. I have published papers <a href='https://scholar.google.com/citations?user=mQFL3DYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences and workshops such as NeurIPS, CVPR, and ECCV.
+My research interest includes Explainable Machine Learning, Vision-Language Models, Scientific Machine Learning, and Out-of-distribution Generalization. I have published papers <a href='https://scholar.google.com/citations?user=mQFL3DYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top-tier AI/ML conferences, such as NeurIPS, CVPR, and ECCV.
 
 
 
