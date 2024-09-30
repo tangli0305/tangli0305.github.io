@@ -51,7 +51,7 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 
 [**Paper**](https://arxiv.org/pdf/2407.14412) \| [**Code**](https://github.com/tangli-udel/DEAL) \| [**Video**](https://www.youtube.com/watch?v=Rd4vFWI2fKw)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
-- In Proceedings of the European Conference on Computer Vision (ECCV), 2024. (acceptance rate 4.5%)
+- In Proceedings of the European Conference on Computer Vision (ECCV), 2024. ([**Strong Double Blind**](https://eccv.ecva.net/virtual/2024/poster/755), acceptance rate 4.5%)
 </div>
 </div>
 
@@ -93,7 +93,7 @@ Mengmeng Ma, **Tang Li**, and Xi Peng
 
 [**Paper**](https://arxiv.org/pdf/2112.09668.pdf) \| [**Video**](https://www.youtube.com/watch?v=3VyVck_gv4g) \| [**Award**](https://sites.google.com/nyu.edu/mlph2021/accepted-papers?authuser=0#:~:text=Deep%20Learning%20for%20Spatiotemporal,Peng%20(University%20of%20Delaware))
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:u5HHmVD_uO8C'></span></strong> -->
-- In Proceedings of the Conference on Neural Information Processing Systems (NeurIPS) Workshops on Machine Learning in Public Health (MLPH), 2021. (**Best Paper Award**)
+- In Proceedings of the Conference on Neural Information Processing Systems (NeurIPS) Workshops on Machine Learning in Public Health (MLPH), 2021. ([**Best Paper Award**](https://sites.google.com/nyu.edu/mlph2021/accepted-papers?authuser=0#:~:text=Deep%20Learning%20for%20Spatiotemporal,Peng%20(University%20of%20Delaware)))
 </div>
 </div>
 
@@ -101,13 +101,13 @@ Mengmeng Ma, **Tang Li**, and Xi Peng
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024.09* **Strong Double Blind**, European Conference on Computer Vision (ECCV).
+- *2024.09* [**Strong Double Blind**](https://eccv.ecva.net/virtual/2024/poster/755), European Conference on Computer Vision (ECCV).
 - *2024.08* Department Travel Award for Outstanding Conference Publications, University of Delaware. 
 - *2024.07* **$5,000** API credit from the OpenAI Researcher Access Program.
 - *2024.05* Distinguished Graduate Student Award 2024, Computer & Information Sciences, University of Delaware. 
 - *2023.03* Department Travel Award for Outstanding Conference Publications, University of Delaware. 
 - *2022.05* Distinguished Graduate Student Award 2022, Computer & Information Sciences, University of Delaware. 
-- *2021.12* **Best Paper Award**, MLPH Workshop, Conference on Neural Information Processing Systems (NeurIPS).
+- *2021.12* [**Best Paper Award**](https://sites.google.com/nyu.edu/mlph2021/accepted-papers?authuser=0#:~:text=Deep%20Learning%20for%20Spatiotemporal,Peng%20(University%20of%20Delaware)), MLPH Workshop, Conference on Neural Information Processing Systems (NeurIPS).
 
 # 📖 Educations
 - *2020.08 - present*, Ph.D. in Computer Science, University of Delaware, Newark, DE, USA. 
