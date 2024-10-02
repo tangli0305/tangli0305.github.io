@@ -31,7 +31,7 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/Publication/Double_correct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Double-correct Prediction: Ensuring Correct Prediction with Correct Rationale**
+**Beyond Accuracy: Ensuring Correct Predictions with Correct Rationales**
 
 **Tang Li**, Mengmeng Ma, and Xi Peng
 
@@ -49,7 +49,7 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 
 **Tang Li**, Mengmeng Ma, and Xi Peng
 
-[**Paper**](https://arxiv.org/pdf/2407.14412) \| [**Code**](https://github.com/tangli-udel/DEAL) \| [**Video**](https://www.youtube.com/watch?v=Rd4vFWI2fKw)
+[**Paper**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05615.pdf) \| [**Code**](https://github.com/tangli-udel/DEAL) \| [**Video**](https://www.youtube.com/watch?v=Rd4vFWI2fKw)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the European Conference on Computer Vision (ECCV), 2024. ([**Strong Double Blind**](https://eccv.ecva.net/virtual/2024/poster/755), acceptance rate 4.5%)
 </div>
@@ -63,7 +63,7 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 
 Mengmeng Ma, **Tang Li**, and Xi Peng
 
-[**Paper**](https://arxiv.org/pdf/2407.04949v1) \| [**Code**](https://tangli0305.github.io/) \| [**Video**](https://drive.google.com/file/d/1uPGpFzsk_SgV_MA-qnY9k6QlMoyaTqrD/view)
+[**Paper**](https://proceedings.mlr.press/v235/ma24e.html) \| [**Code**](https://tangli0305.github.io/) \| [**Video**](https://drive.google.com/file/d/1uPGpFzsk_SgV_MA-qnY9k6QlMoyaTqrD/view)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the International Conference on Machine Learning, 2024. (acceptance rate 27.5%)
 </div>
@@ -77,7 +77,7 @@ Mengmeng Ma, **Tang Li**, and Xi Peng
 
 **Tang Li**, Fengchun Qiao, Mengmeng Ma, and Xi Peng
 
-[**Paper**](https://arxiv.org/pdf/2303.16390.pdf) \| [**Code**](https://github.com/tangli-udel/DRE) \| [**Video**](https://www.youtube.com/watch?v=4-8zMdB83x8) 
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Are_Data-Driven_Explanations_Robust_Against_Out-of-Distribution_Data_CVPR_2023_paper.pdf) \| [**Code**](https://github.com/tangli-udel/DRE) \| [**Video**](https://www.youtube.com/watch?v=4-8zMdB83x8) 
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (acceptance rate 25.8%)
 </div>
