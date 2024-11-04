@@ -35,7 +35,7 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 
 **Tang Li**, Mengmeng Ma, and Xi Peng
 
-[**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/) \| [**Video**](https://tangli0305.github.io/)
+[**Paper**](https://arxiv.org/pdf/2411.00132) \| [**Code**](https://github.com/deep-real/DCP) \| [**Video**](https://tangli0305.github.io/)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the  Annual Conference on Neural Information Processing Systems (NeurIPS), 2024. (acceptance rate 25.8%)
 </div>
@@ -101,6 +101,7 @@ Mengmeng Ma, **Tang Li**, and Xi Peng
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2024.10* Department Travel Award for Outstanding Conference Publications, University of Delaware. 
 - *2024.09* [**Strong Double Blind**](https://eccv.ecva.net/virtual/2024/poster/755), European Conference on Computer Vision (ECCV).
 - *2024.08* Department Travel Award for Outstanding Conference Publications, University of Delaware. 
 - *2024.07* **$5,000** API credit from the OpenAI Researcher Access Program.
@@ -124,9 +125,10 @@ Mengmeng Ma, **Tang Li**, and Xi Peng
 Conference and Journal Reviewer
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2023-2024.
 - International Conference on Learning Representations (ICLR), 2025.
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023-2024.
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023-2025.
 - AAAI Conference on Artificial Intelligence (AAAI), 2024.
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.
+- International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
 - British Machine Vision Conference (BMVC), 2024.
 - Remote Sensing (RS), 2022.
 
