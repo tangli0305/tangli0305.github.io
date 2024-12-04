@@ -101,12 +101,12 @@ Mengmeng Ma, **Tang Li**, and Xi Peng
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024.10* CIS Outstanding Conference Travel Award, University of Delaware. 
+- *2024.10* **$2,500** CIS Outstanding Conference Travel Award, University of Delaware. 
 - *2024.09* [**Strong Double Blind**](https://eccv.ecva.net/virtual/2024/poster/755), European Conference on Computer Vision (ECCV).
-- *2024.08* CIS Outstanding Conference Travel Award, University of Delaware. 
-- *2024.07* **$5,000** API credit from the OpenAI Researcher Access Program.
+- *2024.08* **$2,500** CIS Outstanding Conference Travel Award, University of Delaware. 
+- *2024.07* **$5,000** API credit from the **OpenAI** Researcher Access Program.
 - *2024.05* Distinguished Graduate Student Award 2024, Computer & Information Sciences, University of Delaware. 
-- *2023.03* Department Travel Award for Outstanding Conference Publications, University of Delaware. 
+- *2023.03* **$1,000** Department Travel Award for Outstanding Conference Publications, University of Delaware. 
 - *2022.05* Distinguished Graduate Student Award 2022, Computer & Information Sciences, University of Delaware. 
 - *2021.12* [**Best Paper Award**](https://sites.google.com/nyu.edu/mlph2021/accepted-papers?authuser=0#:~:text=Deep%20Learning%20for%20Spatiotemporal,Peng%20(University%20of%20Delaware)), MLPH Workshop, Conference on Neural Information Processing Systems (NeurIPS).
 
