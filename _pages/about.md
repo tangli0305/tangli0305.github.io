@@ -35,7 +35,7 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 
 **Tang Li**, Mengmeng Ma, and Xi Peng
 
-[**Paper**](https://arxiv.org/pdf/2411.00132) \| [**Code**](https://github.com/deep-real/DCP) \| [**Video**](https://tangli0305.github.io/)
+[**Paper**](https://arxiv.org/pdf/2411.00132) \| [**Code**](https://github.com/deep-real/DCP) \| [**Video**](https://www.youtube.com/watch?v=c23RWXeI0ok)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the  Annual Conference on Neural Information Processing Systems (NeurIPS), 2024. (acceptance rate 25.8%)
 </div>
@@ -63,7 +63,7 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 
 Mengmeng Ma, **Tang Li**, and Xi Peng
 
-[**Paper**](https://proceedings.mlr.press/v235/ma24e.html) \| [**Code**](https://tangli0305.github.io/) \| [**Video**](https://drive.google.com/file/d/1uPGpFzsk_SgV_MA-qnY9k6QlMoyaTqrD/view)
+[**Paper**](https://proceedings.mlr.press/v235/ma24e.html) \| [**Code**](https://github.com/mengmenm/TFL-OOF) \| [**Video**](https://drive.google.com/file/d/1uPGpFzsk_SgV_MA-qnY9k6QlMoyaTqrD/view)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the International Conference on Machine Learning, 2024. (acceptance rate 27.5%)
 </div>
@@ -101,9 +101,9 @@ Mengmeng Ma, **Tang Li**, and Xi Peng
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024.10* Department Travel Award for Outstanding Conference Publications, University of Delaware. 
+- *2024.10* CIS Outstanding Conference Travel Award, University of Delaware. 
 - *2024.09* [**Strong Double Blind**](https://eccv.ecva.net/virtual/2024/poster/755), European Conference on Computer Vision (ECCV).
-- *2024.08* Department Travel Award for Outstanding Conference Publications, University of Delaware. 
+- *2024.08* CIS Outstanding Conference Travel Award, University of Delaware. 
 - *2024.07* **$5,000** API credit from the OpenAI Researcher Access Program.
 - *2024.05* Distinguished Graduate Student Award 2024, Computer & Information Sciences, University of Delaware. 
 - *2023.03* Department Travel Award for Outstanding Conference Publications, University of Delaware. 
@@ -116,6 +116,7 @@ Mengmeng Ma, **Tang Li**, and Xi Peng
 - *2013.09 - 2017.06*, B.Eng. in Software Engineering, East China Normal University, Shanghai, China. 
 
 # 💬 Invited Talks
+- *2024.12*, the  Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.  \| [\[video\]](https://www.youtube.com/watch?v=c23RWXeI0ok)
 - *2024.09*, the European Conference on Computer Vision (ECCV), 2024.  \| [\[video\]](https://www.youtube.com/watch?v=Rd4vFWI2fKw)
 - *2023.05*, the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.  \| [\[video\]](https://www.youtube.com/watch?v=4-8zMdB83x8)
 - *2021.12*, MLPH Workshop, Conference on Neural Information Processing Systems (NeurIPS), 2021.  \| [\[video\]](https://www.youtube.com/watch?v=3VyVck_gv4g)
