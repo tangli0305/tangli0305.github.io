@@ -28,6 +28,34 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Publication/failure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Interpretable Failure Detection with Human-Level Concepts**
+
+Kien X. Nguyen, **Tang Li**, and Xi Peng
+
+[**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/)
+<!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
+- In Proceedings of the Annual AAAI Conference on Artificial Intelligence, 2025. (acceptance rate 23.4%)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Publication/rationale.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Beyond Accuracy: On the Effects of Fine-tuning Towards Vision-Language Model's Prediction Rationality**
+
+Qitong Wang, **Tang Li**, Kien X. Nguyen, and Xi Peng
+
+[**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/)
+<!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
+- In Proceedings of the Annual AAAI Conference on Artificial Intelligence, 2025. (acceptance rate 23.4%)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/Publication/Double_correct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -66,34 +94,6 @@ Mengmeng Ma, **Tang Li**, and Xi Peng
 [**Paper**](https://proceedings.mlr.press/v235/ma24e.html) \| [**Code**](https://github.com/mengmenm/TFL-OOF) \| [**Video**](https://drive.google.com/file/d/1uPGpFzsk_SgV_MA-qnY9k6QlMoyaTqrD/view)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the International Conference on Machine Learning, 2024. (acceptance rate 27.5%)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/Publication/failure.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Interpretable Failure Detection with Human-Level Concepts**
-
-Kien X. Nguyen, **Tang Li**, and Xi Peng
-
-[**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/)
-<!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
-- In Proceedings of the Annual AAAI Conference on Artificial Intelligence, 2024. (acceptance rate 23.4%)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/Publication/rationale.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Beyond Accuracy: On the Effects of Fine-tuning Towards Vision-Language Model's Prediction Rationality**
-
-Qitong Wang, **Tang Li**, Kien X. Nguyen, and Xi Peng
-
-[**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/)
-<!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
-- In Proceedings of the Annual AAAI Conference on Artificial Intelligence, 2024. (acceptance rate 23.4%)
 </div>
 </div>
 
