@@ -28,12 +28,12 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Publication/failure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Publication/rationale.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Interpretable Failure Detection with Human-Level Concepts**
+**Beyond Accuracy: On the Effects of Fine-tuning Towards Vision-Language Model's Prediction Rationality**
 
-Kien X. Nguyen, **Tang Li**, and Xi Peng
+Qitong Wang, **Tang Li**, Kien X. Nguyen, and Xi Peng
 
 [**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
@@ -42,12 +42,12 @@ Kien X. Nguyen, **Tang Li**, and Xi Peng
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Publication/rationale.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Publication/failure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Beyond Accuracy: On the Effects of Fine-tuning Towards Vision-Language Model's Prediction Rationality**
+**Interpretable Failure Detection with Human-Level Concepts**
 
-Qitong Wang, **Tang Li**, Kien X. Nguyen, and Xi Peng
+Kien X. Nguyen, **Tang Li**, and Xi Peng
 
 [**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
