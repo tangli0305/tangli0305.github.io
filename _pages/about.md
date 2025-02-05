@@ -28,6 +28,21 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 Oral</div><img src='images/Publication/failure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Interpretable Failure Detection with Human-Level Concepts**
+
+[Kien X. Nguyen](https://tangli0305.github.io/), **Tang Li**, and Xi Peng
+
+[**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/)
+<!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
+- In Proceedings of the Annual AAAI Conference on Artificial Intelligence, 2025. (acceptance rate 4.7%)
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Publication/rationale.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -35,25 +50,12 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 
 Qitong Wang, **Tang Li**, Kien X. Nguyen, and Xi Peng
 
-[**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/)
+[**Paper**](https://arxiv.org/pdf/2412.13333) \| [**Code**](https://github.com/deep-real/vlm-pred-rationality)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the Annual AAAI Conference on Artificial Intelligence, 2025. (acceptance rate 23.4%)
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Publication/failure.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Interpretable Failure Detection with Human-Level Concepts**
-
-Kien X. Nguyen, **Tang Li**, and Xi Peng
-
-[**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/)
-<!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
-- In Proceedings of the Annual AAAI Conference on Artificial Intelligence, 2025. (acceptance rate 23.4%)
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/Publication/Double_correct.png' alt="sym" width="100%"></div></div>
