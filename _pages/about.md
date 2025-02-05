@@ -33,7 +33,7 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 
 **Interpretable Failure Detection with Human-Level Concepts**
 
-<a href="https://www.cis.udel.edu/" style="color: black; text-decoration: none;">Kien X. Nguyen</a>, **Tang Li**, and Xi Peng
+<a href="https://nyquixt.github.io/profile/" style="color: #494e52; text-decoration: none;">Kien X. Nguyen</a>, **Tang Li**, and Xi Peng
 
 [**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
