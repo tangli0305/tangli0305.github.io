@@ -131,8 +131,9 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2025.01* [**Oral Presentation Award**](https://aaai.org/wp-content/uploads/2025/01/AAAI-25-Oral-Talks-Schedule.pdf), the Annual AAAI Conference on Artificial Intelligence (AAAI).
 - *2024.10* **$2,500** CIS Outstanding Conference Travel Award, University of Delaware. 
-- *2024.09* [**Strong Double Blind**](https://eccv.ecva.net/virtual/2024/poster/755), European Conference on Computer Vision (ECCV).
+- *2024.09* [**Strong Double Blind Award**](https://eccv.ecva.net/virtual/2024/poster/755), European Conference on Computer Vision (ECCV).
 - *2024.08* **$2,500** CIS Outstanding Conference Travel Award, University of Delaware. 
 - *2024.07* **$5,000** API credit from the **OpenAI** Researcher Access Program.
 - *2024.05* Distinguished Graduate Student Award 2024, Computer & Information Sciences, University of Delaware. 
