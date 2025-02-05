@@ -33,7 +33,7 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 
 **Interpretable Failure Detection with Human-Level Concepts**
 
-<a href="https://nyquixt.github.io/profile/" style="color: #494e52; text-decoration: none;">Kien X. Nguyen</a>, **Tang Li**, and Xi Peng
+<a href="https://nyquixt.github.io/profile/" style="color: #494e52; text-decoration: none;">Kien X. Nguyen</a>, **Tang Li**, and <a href="https://deep-real.github.io/dr_xipeng.html" style="color: #494e52; text-decoration: none;">Xi Peng</a>
 
 [**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
@@ -48,7 +48,7 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 
 **Beyond Accuracy: On the Effects of Fine-tuning Towards Vision-Language Model's Prediction Rationality**
 
-Qitong Wang, **Tang Li**, Kien X. Nguyen, and Xi Peng
+<a href="https://wqtwjt1996.github.io/" style="color: #494e52; text-decoration: none;">Qitong Wang</a>, **Tang Li**, <a href="https://nyquixt.github.io/profile/" style="color: #494e52; text-decoration: none;">Kien X. Nguyen</a>, and <a href="https://deep-real.github.io/dr_xipeng.html" style="color: #494e52; text-decoration: none;">Xi Peng</a>
 
 [**Paper**](https://arxiv.org/pdf/2412.13333) \| [**Code**](https://github.com/deep-real/vlm-pred-rationality)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
@@ -63,7 +63,7 @@ Qitong Wang, **Tang Li**, Kien X. Nguyen, and Xi Peng
 
 **Beyond Accuracy: Ensuring Correct Predictions with Correct Rationales**
 
-**Tang Li**, Mengmeng Ma, and Xi Peng
+**Tang Li**, <a href="https://mengmenm.top/" style="color: #494e52; text-decoration: none;">Mengmeng Ma</a>, and <a href="https://deep-real.github.io/dr_xipeng.html" style="color: #494e52; text-decoration: none;">Xi Peng</a>
 
 [**Paper**](https://arxiv.org/pdf/2411.00132) \| [**Code**](https://github.com/deep-real/DCP) \| [**Video**](https://www.youtube.com/watch?v=c23RWXeI0ok)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
@@ -77,7 +77,7 @@ Qitong Wang, **Tang Li**, Kien X. Nguyen, and Xi Peng
 
 **DEAL: Disentangle and Localize Concept-level Explanations for VLMs**
 
-**Tang Li**, Mengmeng Ma, and Xi Peng
+**Tang Li**, <a href="https://mengmenm.top/" style="color: #494e52; text-decoration: none;">Mengmeng Ma</a>, and <a href="https://deep-real.github.io/dr_xipeng.html" style="color: #494e52; text-decoration: none;">Xi Peng</a>
 
 [**Paper**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05615.pdf) \| [**Code**](https://github.com/tangli-udel/DEAL) \| [**Video**](https://www.youtube.com/watch?v=Rd4vFWI2fKw)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
@@ -91,7 +91,7 @@ Qitong Wang, **Tang Li**, Kien X. Nguyen, and Xi Peng
 
 **Beyond the Federation: Topology-aware Federated Learning for Generalization to Unseen Clients**
 
-Mengmeng Ma, **Tang Li**, and Xi Peng
+<a href="https://mengmenm.top/" style="color: #494e52; text-decoration: none;">Mengmeng Ma</a>, **Tang Li**, and <a href="https://deep-real.github.io/dr_xipeng.html" style="color: #494e52; text-decoration: none;">Xi Peng</a>
 
 [**Paper**](https://proceedings.mlr.press/v235/ma24e.html) \| [**Code**](https://github.com/mengmenm/TFL-OOF) \| [**Video**](https://drive.google.com/file/d/1uPGpFzsk_SgV_MA-qnY9k6QlMoyaTqrD/view)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
@@ -105,7 +105,7 @@ Mengmeng Ma, **Tang Li**, and Xi Peng
 
 **Are Data-driven Explanations Robust against Out-of-distribution Data?**
 
-**Tang Li**, Fengchun Qiao, Mengmeng Ma, and Xi Peng
+**Tang Li**, <a href="https://joffery.github.io/joffery/" style="color: #494e52; text-decoration: none;">Fengchun Qiao</a>, <a href="https://mengmenm.top/" style="color: #494e52; text-decoration: none;">Mengmeng Ma</a>, and <a href="https://deep-real.github.io/dr_xipeng.html" style="color: #494e52; text-decoration: none;">Xi Peng</a>
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Are_Data-Driven_Explanations_Robust_Against_Out-of-Distribution_Data_CVPR_2023_paper.pdf) \| [**Code**](https://github.com/tangli-udel/DRE) \| [**Video**](https://www.youtube.com/watch?v=4-8zMdB83x8) 
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
@@ -119,7 +119,7 @@ Mengmeng Ma, **Tang Li**, and Xi Peng
 
 **Deep Learning for Spatiotemporal Modeling of Urbanization**
 
-**Tang Li**, Jing Gao, and Xi Peng
+**Tang Li**, <a href="https://www.udel.edu/academics/colleges/ceoe/departments/gss/faculty/jing-gao/" style="color: #494e52; text-decoration: none;">Jing Gao</a>, and <a href="https://deep-real.github.io/dr_xipeng.html" style="color: #494e52; text-decoration: none;">Xi Peng</a>
 
 [**Paper**](https://arxiv.org/pdf/2112.09668.pdf) \| [**Video**](https://www.youtube.com/watch?v=3VyVck_gv4g) \| [**Award**](https://sites.google.com/nyu.edu/mlph2021/accepted-papers?authuser=0#:~:text=Deep%20Learning%20for%20Spatiotemporal,Peng%20(University%20of%20Delaware))
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:u5HHmVD_uO8C'></span></strong> -->
