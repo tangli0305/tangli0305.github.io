@@ -17,25 +17,42 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the <a href='https://www.cis.udel.edu/'>Computer & Information Science Department</a> at the <a href='https://www.udel.edu/'>University of Delaware</a>. I work under the advice of <a href='https://deep-real.github.io/dr_xipeng.html'>Prof. Xi Peng</a> in the <a href='https://deep-real.github.io/'>DeepREAL Lab</a>.
+I am a Ph.D. candidate in the <a href='https://www.cis.udel.edu/'>Computer & Information Science Department</a> at the <a href='https://www.udel.edu/'>University of Delaware</a>. I work under the advice of <a href='https://deep-real.github.io/dr_xipeng.html'>Prof. Xi Peng</a> in the <a href='https://deep-real.github.io/'>DeepREAL Lab</a>.
 
-My research interest includes Explainable Machine Learning, Vision-Language Models, Scientific Machine Learning, and Out-of-distribution Generalization. I have published papers <a href='https://scholar.google.com/citations?user=cwZRdP4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top-tier AI/ML conferences, such as NeurIPS, CVPR, ECCV, etc.
+My research interest includes Interpretable Machine Learning, Vision-Language Models, Scientific Machine Learning, and Out-of-distribution Generalization. I have published papers <a href='https://scholar.google.com/citations?user=cwZRdP4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top-tier AI/ML conferences, such as NeurIPS, CVPR, ICML, ECCV, AAAI, etc.
 
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2025.05*: Passed my Ph.D. Dissertation Proposal defense. &nbsp;🎉🎉
+- *2025.03*: I will join the Amazon Brand Protection team as summer intern in June. 
+
+
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/Publication/Prostate.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**“Why Is There a Tumor?”: Tell Me the Reason, Show Me the Evidence**
+
+<a href="https://mengmenm.top/" style="color: #494e52; text-decoration: none;">Mengmeng Ma</a>, **Tang Li**, and <a href="https://deep-real.github.io/dr_xipeng.html" style="color: #494e52; text-decoration: none;">Xi Peng</a>
+
+[**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/)
+<!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
+- In Proceedings of the International Conference on Machine Learning, 2025. (acceptance rate 26.9%)
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 Oral</div><img src='images/Publication/failure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Interpretable Failure Detection with Human-Level Concepts**
 
-<a href="https://nyquixt.github.io/profile/" style="color: #494e52; text-decoration: none;">Kien X. Nguyen</a>, **Tang Li**, and <a href="https://deep-real.github.io/dr_xipeng.html" style="color: #494e52; text-decoration: none;">Xi Peng</a>
+<a href="https://nyquixt.github.io/" style="color: #494e52; text-decoration: none;">Kien X. Nguyen</a>, **Tang Li**, and <a href="https://deep-real.github.io/dr_xipeng.html" style="color: #494e52; text-decoration: none;">Xi Peng</a>
 
-[**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/)
+[**Paper**](https://arxiv.org/pdf/2502.05275) \| [**Code**](https://github.com/Nyquixt/ORCA)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the Annual AAAI Conference on Artificial Intelligence, 2025. (acceptance rate 4.7%)
 </div>
@@ -131,6 +148,7 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2025.05* Outstanding Graduate Research Assistant Award 2025, University of Delaware. 
 - *2025.01* [**Oral Presentation Award**](https://aaai.org/wp-content/uploads/2025/01/AAAI-25-Oral-Talks-Schedule.pdf), the Annual AAAI Conference on Artificial Intelligence (AAAI).
 - *2024.10* **$2,500** CIS Outstanding Conference Travel Award, University of Delaware. 
 - *2024.09* [**Strong Double Blind Award**](https://eccv.ecva.net/virtual/2024/poster/755), European Conference on Computer Vision (ECCV).
@@ -155,13 +173,14 @@ My research interest includes Explainable Machine Learning, Vision-Language Mode
 <span class='anchor' id='-professional-services'></span>
 # 💻 Professional Services
 Conference and Journal Reviewer
-- Annual Conference on Neural Information Processing Systems (NeurIPS), 2023-2024.
+- Annual Conference on Neural Information Processing Systems (NeurIPS), 2023-2025.
 - International Conference on Learning Representations (ICLR), 2025.
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023-2025.
+- International Conference on Computer Vision (ICCV) 2025.
 - AAAI Conference on Artificial Intelligence (AAAI), 2024.
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.
 - International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
-- British Machine Vision Conference (BMVC), 2024.
+- British Machine Vision Conference (BMVC), 2024-2025.
 - Remote Sensing (RS), 2022.
 
 DSI Fellow
