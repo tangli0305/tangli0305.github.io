@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in the <a href='https://www.cis.udel.edu/'>Computer & Information Science Department</a> at the <a href='https://www.udel.edu/'>University of Delaware</a>. I work under the advice of <a href='https://deep-real.github.io/dr_xipeng.html'>Prof. Xi Peng</a> in the <a href='https://deep-real.github.io/'>DeepREAL Lab</a>.
+I am a Ph.D. candidate in the <a href='https://www.cis.udel.edu/'>Computer & Information Science Department</a> at the <a href='https://www.udel.edu/'>University of Delaware</a>.
+
+I work under the advice of <a href='https://deep-real.github.io/dr_xipeng.html'>Prof. Xi Peng</a> in the <a href='https://deep-real.github.io/'>DeepREAL Lab</a>.
 
 My research interest includes Interpretable Machine Learning, Vision-Language Models, Scientific Machine Learning, and Out-of-distribution Generalization. I have published papers <a href='https://scholar.google.com/citations?user=cwZRdP4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top-tier AI/ML conferences, such as NeurIPS, CVPR, ICML, ECCV, AAAI, etc.
 
