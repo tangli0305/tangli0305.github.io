@@ -162,14 +162,20 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 - *2021.12* [**Best Paper Award**](https://sites.google.com/nyu.edu/mlph2021/accepted-papers?authuser=0#:~:text=Deep%20Learning%20for%20Spatiotemporal,Peng%20(University%20of%20Delaware)), MLPH Workshop, Conference on Neural Information Processing Systems (NeurIPS).
 
 # 📖 Educations
-- *2020.08 - present*, Ph.D. in Computer Science, University of Delaware, Newark, DE, USA. 
+- *2020.08 - present*, Ph.D. in Computer Science, University of Delaware, Newark, DE, USA.
 - *2018.08 - 2020.05*, Master in Computer Science, George Washington University, Washington D.C., USA.
 - *2013.09 - 2017.06*, B.Eng. in Software Engineering, East China Normal University, Shanghai, China. 
 
 # 💼 Experience
-- *2025.06 - 2025.09*, Applied Scienctist Intern, Amazon Science, Seattle, WA, USA.
+- *2025.06 - 2025.09*, Applied Scientist Intern, Brand Protection, Perfect Order Experience (POE), Amazon Science, Seattle, WA, USA.
+  - Developed IPP-R1 multi-modal reasoning model for IP infringement detection.
+  - Supervised by Dr. <a href='https://scholar.google.com/citations?user=WTo7_EQAAAAJ&hl=en'>Chenge Li</a> and Dr. <a href='https://scholar.google.com/citations?user=blYGLZkAAAAJ&hl=en'>Shaonan Zhang</a>.
 - *2019.01 - 2020.05*, Research Student, George Washington University, Washington D.C., USA. 
+  - Worked on computer vision + interpretability.
+  - Supervised by Prof. <a href='https://scholar.google.com/citations?user=uVBjUtAAAAAJ&hl=en'>Robert Pless</a>.
 - *2015.09 - 2017.05*, Research Student, East China Normal University, Shanghai, China.
+  - Worked on unmanned aerial vehicle (UAV) security.
+  - Supervised by Prof. <a href='https://scholar.google.com/citations?user=Ps1Zbd4AAAAJ&hl=en'>Daojing He</a>.
 
 # 💬 Invited Talks
 - *2024.12*, the  Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.  \| [\[video\]](https://www.youtube.com/watch?v=c23RWXeI0ok)
