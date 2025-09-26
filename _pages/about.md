@@ -27,7 +27,7 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 
 # 🔥 News
 - *2025.05*: Passed my Ph.D. Dissertation Proposal defense. &nbsp;🎉🎉
-- *2025.03*: I will join the Amazon Brand Protection team as summer intern in June. 
+- *2025.03*: I will join the Amazon Science Brand Protection team as summer intern in June. 
 
 
 
@@ -149,7 +149,7 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2025.05* Outstanding Graduate Research Assistant Award 2025, University of Delaware. 
 - *2025.01* [**Oral Presentation Award**](https://aaai.org/wp-content/uploads/2025/01/AAAI-25-Oral-Talks-Schedule.pdf), the Annual AAAI Conference on Artificial Intelligence (AAAI).
 - *2024.10* **$2,500** CIS Outstanding Conference Travel Award, University of Delaware. 
@@ -176,17 +176,18 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 # 💻 Professional Services
 Conference and Journal Reviewer
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2023-2025.
-- International Conference on Learning Representations (ICLR), 2025.
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023-2025.
+- International Conference on Learning Representations (ICLR), 2025-2026.
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023-2026.
 - International Conference on Computer Vision (ICCV) 2025.
 - AAAI Conference on Artificial Intelligence (AAAI), 2024.
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.
-- International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
+- International Conference on Artificial Intelligence and Statistics (AISTATS), 2025-2026.
 - British Machine Vision Conference (BMVC), 2024-2025.
+- IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026.
 - Remote Sensing (RS), 2022.
 
 DSI Fellow
-- *2022.03 - present*, University of Delaware Data Science Institute (DSI), USA.
+- *2022.03 - 2025.08, University of Delaware Data Science Institute (DSI), USA.
 
 <span class='anchor' id='-teaching'></span>
 # 👨‍🏫 Teaching
