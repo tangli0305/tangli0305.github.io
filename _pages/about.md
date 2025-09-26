@@ -166,6 +166,11 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 - *2018.08 - 2020.05*, Master in Computer Science, George Washington University, Washington D.C., USA.
 - *2013.09 - 2017.06*, B.Eng. in Software Engineering, East China Normal University, Shanghai, China. 
 
+# 💼 Experience
+- *2025.06 - 2025.09*, Applied Scienctist Intern, Amazon Science, Seattle, WA, USA.
+- *2019.01 - 2020.05*, Research Student, George Washington University, Washington D.C., USA. 
+- *2015.09 - 2017.05*, Research Student, East China Normal University, Shanghai, China.
+
 # 💬 Invited Talks
 - *2024.12*, the  Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.  \| [\[video\]](https://www.youtube.com/watch?v=c23RWXeI0ok)
 - *2024.09*, the European Conference on Computer Vision (ECCV), 2024.  \| [\[video\]](https://www.youtube.com/watch?v=Rd4vFWI2fKw)
