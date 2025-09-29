@@ -166,7 +166,7 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 - *2018.08 - 2020.05*, Master in Computer Science, George Washington University, Washington D.C., USA.
 - *2013.09 - 2017.06*, B.Eng. in Software Engineering, East China Normal University, Shanghai, China. 
 
-# 💼 Experience
+<!-- # 💼 Experience
 - *2025.06 - 2025.09*, Applied Scientist Intern, Brand Protection, Perfect Order Experience (POE), Amazon Science, Seattle, WA, USA.
   - Developed IPP-R1 multi-modal large language reasoning model for IP infringement detection.
   - Supervised by Dr. <a href='https://scholar.google.com/citations?user=WTo7_EQAAAAJ&hl=en'>Chenge Li</a> and Dr. <a href='https://scholar.google.com/citations?user=blYGLZkAAAAJ&hl=en'>Shaonan Zhang</a>.
@@ -175,7 +175,7 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
   - Supervised by Prof. <a href='https://scholar.google.com/citations?user=uVBjUtAAAAAJ&hl=en'>Robert Pless</a>.
 - *2015.09 - 2017.05*, Research Student, East China Normal University, Shanghai, China.
   - Worked on unmanned aerial vehicle (UAV) security.
-  - Supervised by Prof. <a href='https://scholar.google.com/citations?user=Ps1Zbd4AAAAJ&hl=en'>Daojing He</a>.
+  - Supervised by Prof. <a href='https://scholar.google.com/citations?user=Ps1Zbd4AAAAJ&hl=en'>Daojing He</a>. -->
 
 # 💬 Invited Talks
 - *2024.12*, the  Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.  \| [\[video\]](https://www.youtube.com/watch?v=c23RWXeI0ok)
