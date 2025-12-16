@@ -39,7 +39,7 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 
 <a href="https://mengmenm.top/" style="color: #494e52; text-decoration: none;">Mengmeng Ma</a>, **Tang Li**, and <a href="https://deep-real.github.io/dr_xipeng.html" style="color: #494e52; text-decoration: none;">Xi Peng</a>
 
-[**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/)
+[**Paper**](https://openreview.net/pdf?id=r3ZLefVUMO) \| [**Code**](https://github.com/deep-real/MedRationale)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the International Conference on Machine Learning, 2025. (acceptance rate 26.9%)
 </div>
