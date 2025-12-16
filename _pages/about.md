@@ -149,6 +149,20 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+
+# 💼 Experience
+- *2025.06 - 2025.09*, Applied Scientist Intern, Brand Protection, Perfect Order Experience (POE), Amazon Science, Seattle, WA, USA.
+  - Developed IPP-R1 multi-modal large language reasoning model for IP infringement detection.
+  - Supervised by Dr. <a href='https://scholar.google.com/citations?user=WTo7_EQAAAAJ&hl=en'>Chenge Li</a> and Dr. <a href='https://scholar.google.com/citations?user=blYGLZkAAAAJ&hl=en'>Shaonan Zhang</a>.
+<!-- - *2019.01 - 2020.05*, Research Student, George Washington University, Washington D.C., USA. 
+  - Worked on computer vision + interpretability.
+  - Supervised by Prof. <a href='https://scholar.google.com/citations?user=uVBjUtAAAAAJ&hl=en'>Robert Pless</a>.
+- *2015.09 - 2017.05*, Research Student, East China Normal University, Shanghai, China.
+  - Worked on unmanned aerial vehicle (UAV) security.
+  - Supervised by Prof. <a href='https://scholar.google.com/citations?user=Ps1Zbd4AAAAJ&hl=en'>Daojing He</a>. -->
+
+
+
 # 🏅 Honors and Awards
 - *2025.05* Outstanding Graduate Research Assistant Award 2025, University of Delaware. 
 - *2025.01* [**Oral Presentation Award**](https://aaai.org/wp-content/uploads/2025/01/AAAI-25-Oral-Talks-Schedule.pdf), the Annual AAAI Conference on Artificial Intelligence (AAAI).
@@ -166,16 +180,6 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 - *2018.08 - 2020.05*, Master in Computer Science, George Washington University, Washington D.C., USA.
 - *2013.09 - 2017.06*, B.Eng. in Software Engineering, East China Normal University, Shanghai, China. 
 
-<!-- # 💼 Experience
-- *2025.06 - 2025.09*, Applied Scientist Intern, Brand Protection, Perfect Order Experience (POE), Amazon Science, Seattle, WA, USA.
-  - Developed IPP-R1 multi-modal large language reasoning model for IP infringement detection.
-  - Supervised by Dr. <a href='https://scholar.google.com/citations?user=WTo7_EQAAAAJ&hl=en'>Chenge Li</a> and Dr. <a href='https://scholar.google.com/citations?user=blYGLZkAAAAJ&hl=en'>Shaonan Zhang</a>.
-- *2019.01 - 2020.05*, Research Student, George Washington University, Washington D.C., USA. 
-  - Worked on computer vision + interpretability.
-  - Supervised by Prof. <a href='https://scholar.google.com/citations?user=uVBjUtAAAAAJ&hl=en'>Robert Pless</a>.
-- *2015.09 - 2017.05*, Research Student, East China Normal University, Shanghai, China.
-  - Worked on unmanned aerial vehicle (UAV) security.
-  - Supervised by Prof. <a href='https://scholar.google.com/citations?user=Ps1Zbd4AAAAJ&hl=en'>Daojing He</a>. -->
 
 # 💬 Invited Talks
 - *2024.12*, the  Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.  \| [\[video\]](https://www.youtube.com/watch?v=c23RWXeI0ok)
