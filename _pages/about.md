@@ -62,7 +62,7 @@ AAAI 2025 Oral
 [**Paper**](https://arxiv.org/pdf/2502.05275) \| [**Code**](https://github.com/Nyquixt/ORCA)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the Annual AAAI Conference on Artificial Intelligence, 2025. (acceptance rate 4.7%)
-- [<img class="badge-medal" src="images/gold-medal.png" style='width: 1.5em;'>](https://aaai.org/wp-content/uploads/2025/01/AAAI-25-Oral-Talks-Schedule.pdf) <span style="color:#04B1E6;"><strong>Oral Presentation Award</strong></span>
+- <img class="badge-medal" src="images/gold-medal.png" style='width: 1.5em;'> <a href="https://aaai.org/wp-content/uploads/2025/01/AAAI-25-Oral-Talks-Schedule.pdf" style="color:#04B1E6; text-decoration:none;"> <strong>Oral Presentation Award</strong></a>
 </div>
 </div>
 
@@ -106,7 +106,8 @@ AAAI 2025 Oral
 
 [**Paper**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05615.pdf) \| [**Code**](https://github.com/tangli-udel/DEAL) \| [**Video**](https://www.youtube.com/watch?v=Rd4vFWI2fKw)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
-- In Proceedings of the European Conference on Computer Vision (ECCV), 2024. ([**Strong Double Blind**](https://eccv.ecva.net/virtual/2024/poster/755), acceptance rate 4.5%)
+- In Proceedings of the European Conference on Computer Vision (ECCV), 2024. (acceptance rate 4.5%)
+- <img class="badge-medal" src="images/gold-medal.png" style='width: 1.5em;'> <a href="https://eccv.ecva.net/virtual/2024/poster/755" style="color:#04B1E6; text-decoration:none;"> <strong>Strong Double Blind</strong></a>
 </div>
 </div>
 
@@ -148,7 +149,8 @@ AAAI 2025 Oral
 
 [**Paper**](https://arxiv.org/pdf/2112.09668.pdf) \| [**Video**](https://www.youtube.com/watch?v=3VyVck_gv4g) \| [**Award**](https://sites.google.com/nyu.edu/mlph2021/accepted-papers?authuser=0#:~:text=Deep%20Learning%20for%20Spatiotemporal,Peng%20(University%20of%20Delaware))
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:u5HHmVD_uO8C'></span></strong> -->
-- In Proceedings of the Conference on Neural Information Processing Systems (NeurIPS) Workshops on Machine Learning in Public Health (MLPH), 2021. ([**Best Paper Award**](https://sites.google.com/nyu.edu/mlph2021/accepted-papers?authuser=0#:~:text=Deep%20Learning%20for%20Spatiotemporal,Peng%20(University%20of%20Delaware)))
+- In Proceedings of the Conference on Neural Information Processing Systems (NeurIPS) Workshops on Machine Learning in Public Health (MLPH), 2021.
+- <img class="badge-medal" src="images/gold-medal.png" style='width: 1.5em;'> <a href="https://sites.google.com/nyu.edu/mlph2021/accepted-papers?authuser=0#:~:text=Deep%20Learning%20for%20Spatiotemporal,Peng%20(University%20of%20Delaware" style="color:#04B1E6; text-decoration:none;"> <strong>Best Paper Award</strong></a>
 </div>
 </div>
 
