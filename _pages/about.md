@@ -62,7 +62,7 @@ AAAI 2025 Oral
 [**Paper**](https://arxiv.org/pdf/2502.05275) \| [**Code**](https://github.com/Nyquixt/ORCA)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the Annual AAAI Conference on Artificial Intelligence, 2025. (acceptance rate 4.7%)
-- <img class="badge-medal" src="images/gold-medal.png" style='width: 2em;'> <span style="color:#04B1E6;"><strong>Oral Presentation Award</strong></span>
+- [<img class="badge-medal" src="images/gold-medal.png" style='width: 1.5em;'>](https://aaai.org/wp-content/uploads/2025/01/AAAI-25-Oral-Talks-Schedule.pdf) <span style="color:#04B1E6;"><strong>Oral Presentation Award</strong></span>
 </div>
 </div>
 
