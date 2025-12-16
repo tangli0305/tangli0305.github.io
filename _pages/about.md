@@ -151,7 +151,7 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 
 <span class='anchor' id='-experience'></span>
 # 💼 Experience
-- *2025.06 - 2025.09*, Applied Scientist Intern, Brand Protection, Perfect Order Experience (POE), Amazon Science <img src='./images/amazon-science.png' style='width: 8em;'>, Seattle, WA, USA.
+- *2025.06 - 2025.09*, Applied Scientist Intern, Brand Protection Team, Amazon Science <img src='./images/amazon-science.png' style='width: 8em;'>, Seattle, WA, USA.
   - Developed IPP-R1 multi-modal large language reasoning model for IP infringement detection.
   - Supervised by Dr. <a href='https://scholar.google.com/citations?user=WTo7_EQAAAAJ&hl=en'>Chenge Li</a> and Dr. <a href='https://scholar.google.com/citations?user=blYGLZkAAAAJ&hl=en'>Shaonan Zhang</a>.
 
