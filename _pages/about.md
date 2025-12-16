@@ -193,6 +193,7 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 Conference and Journal Reviewer
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2023-2025.
 - International Conference on Learning Representations (ICLR), 2025-2026.
+- International Conference on Machine Learning (ICML), 2025.
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023-2026.
 - International Conference on Computer Vision (ICCV) 2025.
 - AAAI Conference on Artificial Intelligence (AAAI), 2024.
