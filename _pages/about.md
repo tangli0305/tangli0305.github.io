@@ -50,7 +50,6 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">
-<img class="badge-medal" src="images/gold-medal.png" style='width: 1em;'>
 AAAI 2025 Oral
 </div>
 <img src='images/Publication/failure.png' alt="sym" width="100%"></div></div>
@@ -63,6 +62,7 @@ AAAI 2025 Oral
 [**Paper**](https://arxiv.org/pdf/2502.05275) \| [**Code**](https://github.com/Nyquixt/ORCA)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the Annual AAAI Conference on Artificial Intelligence, 2025. (acceptance rate 4.7%)
+- <img class="badge-medal" src="images/gold-medal.png" style='width: 3em;'> <span style="color:#04B1E6;"><strong>Oral Presentation Award</strong></span>
 </div>
 </div>
 
