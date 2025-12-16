@@ -107,3 +107,17 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+// Medal icon (outside the badge). Adjust size via --medal-size.
+.badge-medal {
+  position: absolute;
+  top: .5em;
+  left: -.6em;                 // put it OUTSIDE to the left of the badge
+  transform: translateY(-10%); // tweak vertical alignment
+  z-index: 3;
+
+  --medal-size: 28px;
+  font-size: var(--medal-size);
+
+  color: #f2c94c;              // “gold”
+}

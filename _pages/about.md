@@ -49,8 +49,8 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 
 
 <div class='paper-box'><div class='paper-box-image'><div>
+<img class="badge-medal" src="images/gold-medal.png" style='width: 6em;'>
 <div class="badge">
-<img class="badge-icon" src="images/gold-medal.png" style='width: 6em;'>
 AAAI 2025 Oral
 </div>
 <img src='images/Publication/failure.png' alt="sym" width="100%"></div></div>
