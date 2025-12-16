@@ -23,7 +23,7 @@ I work under the advice of Prof. <a href='https://deep-real.github.io/dr_xipeng.
 
 My research interest includes Interpretable Machine Learning, Vision-Language Models, Scientific Machine Learning, and Out-of-distribution Generalization. I have published papers <a href='https://scholar.google.com/citations?user=cwZRdP4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top-tier AI/ML conferences, such as NeurIPS, CVPR, ICML, ECCV, AAAI, etc.
 
-<span style="color:red">I’m actively looking for full-time or internship roles in research labs. If you think there’s a fit, feel free to reach out!</span>
+<span style="color:red">I’m actively looking for full-time or internship research roles in the industry. If you think there’s a fit, feel free to reach out!</span>
 
 
 # 🔥 News
@@ -50,7 +50,7 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">
-<img class="badge-icon" src="images/gold-medal.png">
+<img class="badge-icon" src="images/gold-medal.png" style='width: 6em;'>
 AAAI 2025 Oral
 </div>
 <img src='images/Publication/failure.png' alt="sym" width="100%"></div></div>
