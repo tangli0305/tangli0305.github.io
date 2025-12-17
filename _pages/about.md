@@ -198,7 +198,7 @@ AAAI 2025 Oral
 
 <span class='anchor' id='-professional-services'></span>
 # 💻 Professional Services
-Conference and Journal Reviewer
+Conference Reviewer
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2023-2025.
 - International Conference on Learning Representations (ICLR), 2025-2026.
 - International Conference on Machine Learning (ICML), 2025.
@@ -209,7 +209,9 @@ Conference and Journal Reviewer
 - International Conference on Artificial Intelligence and Statistics (AISTATS), 2025-2026.
 - British Machine Vision Conference (BMVC), 2024-2025.
 - IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026.
-- Remote Sensing (RS), 2022.
+
+Journal Reviewer
+- Frontiers in Artificial Intelligence, 2025.
 
 DSI Fellow
 - *2022.03 - 2025.08, University of Delaware Data Science Institute (DSI), USA.
