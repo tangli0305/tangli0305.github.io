@@ -28,7 +28,7 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 
 # 🔥 News
 - *2025.05*: Passed my Ph.D. Dissertation Proposal defense. &nbsp;🎉🎉
-- *2025.03*: I will join the Amazon Science <img src='./images/Amazon.png' style='width: 8em;'> Brand Protection team as summer intern in June. 
+- *2025.03*: I will join the Amazon <img src='./images/Amazon.png' style='width: 4em;'>, Brand Protection team as summer intern in June. 
 
 
 
