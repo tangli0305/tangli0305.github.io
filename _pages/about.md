@@ -28,7 +28,7 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 
 # 🔥 News
 - *2025.05*: Passed my Ph.D. Dissertation Proposal defense. &nbsp;🎉🎉
-- *2025.03*: I will join the Amazon <img src='./images/Amazon.png' style='width: 4em;'>, Brand Protection team as summer intern in June. 
+- *2025.03*: I will join the <img src='./images/Amazon.png' style='width: 4em;'>, Brand Protection team as summer intern in June. 
 
 
 
@@ -173,7 +173,7 @@ AAAI 2025 Oral
 
 <span class='anchor' id='-experience'></span>
 # 💼 Experience
-- *2025.06 - 2025.09*, Applied Scientist Intern, Brand Protection Team, Amazon Science <img src='./images/amazon-science.png' style='width: 8em;'>, Seattle, WA, USA.
+- *2025.06 - 2025.09*, Applied Scientist Intern, Brand Protection Team, Amazon <img src='./images/Amazon.png' style='width: 4em;'>, Seattle, WA, USA.
   - Developed IPP-R1 multi-modal large language reasoning model for IP infringement detection.
   - Supervised by Dr. <a href='https://scholar.google.com/citations?user=WTo7_EQAAAAJ&hl=en'>Chenge Li</a> and Dr. <a href='https://scholar.google.com/citations?user=blYGLZkAAAAJ&hl=en'>Shaonan Zhang</a>.
 
@@ -213,22 +213,22 @@ AAAI 2025 Oral
 <span class='anchor' id='-professional-services'></span>
 # 💻 Professional Services
 Conference Reviewer
-- Annual Conference on Neural Information Processing Systems (NeurIPS), 2023-2025.
-- International Conference on Learning Representations (ICLR), 2025-2026.
-- International Conference on Machine Learning (ICML), 2025-2026.
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023-2026.
-- International Conference on Computer Vision (ICCV) 2025.
-- AAAI Conference on Artificial Intelligence (AAAI), 2024.
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.
-- International Conference on Artificial Intelligence and Statistics (AISTATS), 2025-2026.
-- British Machine Vision Conference (BMVC), 2024-2025.
-- IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026.
+- Annual Conference on Neural Information Processing Systems (NeurIPS), 2023-2026
+- International Conference on Learning Representations (ICLR), 2025-2026
+- International Conference on Machine Learning (ICML), 2025-2026
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023-2026
+- International Conference on Computer Vision (ICCV) 2025
+- The European Conference on Computer Vision (ECCV), 2026
+- AAAI Conference on Artificial Intelligence (AAAI), 2024
+- International Conference on Artificial Intelligence and Statistics (AISTATS), 2025-2026
+- British Machine Vision Conference (BMVC), 2024-2025
+- IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026
 
 Journal Reviewer
-- Frontiers in Artificial Intelligence, 2025.
+- Frontiers in Artificial Intelligence, 2025
 
 DSI Fellow
-- *2022.03 - 2025.08, University of Delaware Data Science Institute (DSI), USA.
+- *2022.03 - 2025.08, University of Delaware Data Science Institute (DSI), USA
 
 <span class='anchor' id='-teaching'></span>
 # 👨‍🏫 Teaching
