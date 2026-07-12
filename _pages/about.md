@@ -187,6 +187,7 @@ AAAI 2025 Oral
 
 
 # 🏅 Honors and Awards
+- *2026.05* **Gold Reviewer Award**, The International Conference on Machine Learning (ICML), 2026. 
 - *2025.05* Outstanding Graduate Research Assistant Award 2025, University of Delaware. 
 - *2025.01* [**Oral Presentation Award**](https://aaai.org/wp-content/uploads/2025/01/AAAI-25-Oral-Talks-Schedule.pdf), the Annual AAAI Conference on Artificial Intelligence (AAAI).
 - *2024.10* **$2,500** CIS Outstanding Conference Travel Award, University of Delaware. 
@@ -199,12 +200,12 @@ AAAI 2025 Oral
 - *2021.12* [**Best Paper Award**](https://sites.google.com/nyu.edu/mlph2021/accepted-papers?authuser=0#:~:text=Deep%20Learning%20for%20Spatiotemporal,Peng%20(University%20of%20Delaware)), MLPH Workshop, Conference on Neural Information Processing Systems (NeurIPS).
 
 # 📖 Educations
-- *2020.08 - present*, Ph.D. in Computer Science, University of Delaware, Newark, DE, USA.
+- *2020.08 - 2026.06*, Ph.D. in Computer Science, University of Delaware, Newark, DE, USA.
 - *2018.08 - 2020.05*, Master in Computer Science, George Washington University, Washington D.C., USA.
 - *2013.09 - 2017.06*, B.Eng. in Software Engineering, East China Normal University, Shanghai, China. 
 
 
-# 💬 Invited Talks
+# 💬 Talks
 - *2024.12*, the  Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.  \| [\[video\]](https://www.youtube.com/watch?v=c23RWXeI0ok)
 - *2024.09*, the European Conference on Computer Vision (ECCV), 2024.  \| [\[video\]](https://www.youtube.com/watch?v=Rd4vFWI2fKw)
 - *2023.05*, the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.  \| [\[video\]](https://www.youtube.com/watch?v=4-8zMdB83x8)
