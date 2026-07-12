@@ -36,11 +36,11 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/Publication/ViSAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Less is More: Neuroscience-Motivated Probing for Efficient Concept Circuits Tracing**
+**Inside the Visual Mind: Neuroscience-Motivated Concept Circuits for Interpreting and Steering Vision Transformers**
 
 **Tang Li**, Yanlin Chen, <a href="https://mengmenm.top/" style="color: #494e52; text-decoration: none;">Mengmeng Ma</a>, and <a href="https://deep-real.github.io/dr_xipeng.html" style="color: #494e52; text-decoration: none;">Xi Peng</a>
 
-[**Paper**](https://tangli0305.github.io/) \| [**Code**](https://tangli0305.github.io/)
+[**Paper**](https://arxiv.org/pdf/2606.06664) \| [**Code**](https://github.com/deep-real/ViSAE) \| [**Video**](https://www.youtube.com/watch?v=euOD-LRfge8)
 <!-- <strong><span class='show_paper_citations' data='mQFL3DYAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 - In Proceedings of the International Conference on Machine Learning, 2026. (acceptance rate 26.6%)
 </div>
@@ -208,7 +208,8 @@ AAAI 2025 Oral
 
 <span class='anchor' id='-talks'></span>
 # 💬 Talks
-- *2024.12*, the  Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.  \| [\[video\]](https://www.youtube.com/watch?v=c23RWXeI0ok)
+- *2026.05*, the the International Conference on Machine Learning (ICML), 2026.  \| [\[video\]](https://www.youtube.com/watch?v=euOD-LRfge8)
+- *2024.12*, the Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.  \| [\[video\]](https://www.youtube.com/watch?v=c23RWXeI0ok)
 - *2024.09*, the European Conference on Computer Vision (ECCV), 2024.  \| [\[video\]](https://www.youtube.com/watch?v=Rd4vFWI2fKw)
 - *2023.05*, the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.  \| [\[video\]](https://www.youtube.com/watch?v=4-8zMdB83x8)
 - *2021.12*, MLPH Workshop, Conference on Neural Information Processing Systems (NeurIPS), 2021.  \| [\[video\]](https://www.youtube.com/watch?v=3VyVck_gv4g)
@@ -224,11 +225,12 @@ Conference Reviewer
 - The European Conference on Computer Vision (ECCV), 2026
 - AAAI Conference on Artificial Intelligence (AAAI), 2024
 - International Conference on Artificial Intelligence and Statistics (AISTATS), 2025-2026
-- British Machine Vision Conference (BMVC), 2024-2025
-- IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026
+- British Machine Vision Conference (BMVC), 2024-2026
+- IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026-2027
 
 Journal Reviewer
-- Frontiers in Artificial Intelligence, 2025
+- Frontiers in Artificial Intelligence, 2025-2026
+- Transactions on Machine Learning Research (TMLR), 2026
 
 DSI Fellow
 - *2022.03 - 2025.08, University of Delaware Data Science Institute (DSI), USA
