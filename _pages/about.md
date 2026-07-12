@@ -26,9 +26,9 @@ My research interest includes Interpretable Machine Learning, Vision-Language Mo
 <!-- <span style="color:red">I’m actively looking for full-time or internship research roles in the industry. If you think there’s a fit, feel free to reach out!</span> -->
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2025.05*: Passed my Ph.D. Dissertation Proposal defense. &nbsp;🎉🎉
-- *2025.03*: I will join the <img src='./images/Amazon.png' style='width: 4em;'>, Brand Protection team as summer intern in June. 
+- *2025.03*: I will join the <img src='./images/Amazon.png' style='width: 4em;'>, Brand Protection team as summer intern in June.  -->
 
 
 
